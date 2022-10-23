@@ -1,0 +1,28 @@
+body{
+    background-color: #083B4C;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: #1389B2;
+}
+
+.box15{
+    width: 100px;
+    height: 100px;
+    background-color: #F0466F;
+}
+
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: #0CD6A1;
+}
+
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color: #FFD166;
+}
